@@ -1,2 +1,3 @@
-# co-umi-pc
-Prezentace o možnostech mobilu
+# co-umi-mobil
+Prezentace o možnostech **mobilu**
+Školní projekt
